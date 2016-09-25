@@ -4,3 +4,5 @@ An image processing algorithm to quantify the presence of Prussian Blue staining
 
 GNU General Public License, version 2
 Copyright (C) 2016 - Victor Guana
+
+More Information: http://victorguana.blogspot.ca/2016/09/identifying-iron-depositions-in.html
